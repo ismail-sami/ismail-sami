@@ -13,7 +13,7 @@
 - 🇵🇸 Software developer from **Gaza, Palestine**
 - 🎓 B.Sc. in **Software Development** — Islamic University of Gaza (2026, Very Good)
 - ⚙️ I build backend systems with **Node.js, Express.js and MongoDB** — scheduling engines, payment integrations, auth and role-based access
-- 🤝 Co-founder of **Madad**, a small dev team building applications that serve people in Gaza
+- 🤝 Members of **Madad** team, a small dev team building applications that serve people in Gaza
 - 🤖 Currently growing into **AI engineering**, with the goal of building solutions for **education in Palestine**
 - 🌐 Background as a **network technician** at an ISP (MikroTik, OpenWrt, hotspot networks)
 
@@ -83,10 +83,3 @@ A platform connecting patients in Gaza with professional support specialists.
 - 📚 Learning AI engineering — LLM apps, AI-assisted software engineering with coding agents
 - 🔭 Building backend features for Madad
 - 💬 Ask me about Node.js, MongoDB schema design, payment integrations or scheduling systems
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismail-sami&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-sami&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
